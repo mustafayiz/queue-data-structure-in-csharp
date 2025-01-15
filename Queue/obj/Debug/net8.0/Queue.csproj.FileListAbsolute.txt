@@ -1,0 +1,14 @@
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\bin\Debug\net8.0\Queue.exe
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\bin\Debug\net8.0\Queue.deps.json
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\bin\Debug\net8.0\Queue.dll
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\bin\Debug\net8.0\Queue.pdb
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.dll
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.pdb
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+D:\Mustafa\Projelerim\CSharp\Data Structures\queue\Queue\obj\Debug\net8.0\ref\Queue.dll
